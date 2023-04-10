@@ -1,0 +1,15 @@
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\bin\Debug\net7.0\Ex 2.exe
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\bin\Debug\net7.0\Ex 2.deps.json
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\bin\Debug\net7.0\Ex 2.runtimeconfig.json
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\bin\Debug\net7.0\Ex 2.dll
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\bin\Debug\net7.0\Ex 2.pdb
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.csproj.AssemblyReference.cache
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.AssemblyInfoInputs.cache
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.AssemblyInfo.cs
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.csproj.CoreCompileInputs.cache
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.dll
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\refint\Ex 2.dll
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.pdb
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\Ex 2.genruntimeconfig.cache
+C:\Users\36992072854\Desktop\Lista exercicios 05-04\Ex 2\obj\Debug\net7.0\ref\Ex 2.dll
